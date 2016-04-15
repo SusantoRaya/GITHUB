@@ -1,7 +1,7 @@
 <?php
 
 //namespace app\controllers;
-namespace app\controllers;
+namespace app\controllers;asdasdasd
 name space;;
 
 use Yii;
