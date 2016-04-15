@@ -12,7 +12,7 @@ use yii\web\Controller;
 use yii\filters\VerbFilter;
 use app\models\EntryForm;
 use app\models\LoginForm;
-
+asdadad
 
 
 class MemberController extends Controller
